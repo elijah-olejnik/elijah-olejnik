@@ -1,6 +1,8 @@
 ## Hi there 👋 my name is Elijah Olejnik and I'm an engineer. ✨General engineer✨
 
 <img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/3BBS.gif">
+<br />
+<img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/C.png" width="64" height="72">
 
 <!--
 **elijah-olejnik/elijah-olejnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
