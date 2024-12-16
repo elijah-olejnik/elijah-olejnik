@@ -1,10 +1,10 @@
 ## Hi there 👋 my name is Elijah Olejnik and I'm an engineer. ✨General engineer✨
 
 <img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/3BBS.gif">
-<table border="0">
+<table>
   <tr>
-    <td border="0"><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/C.png" width="32" height="36"></td>
-    <td border="0"><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/CPP.png" width="32" height="36"></td>
+    <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/C.png" width="32" height="36"></td>
+    <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/CPP.png" width="32" height="36"></td>
   </tr>
 </table>
 <!--
