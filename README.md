@@ -5,7 +5,7 @@
   <tr>
     <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/C.png" width="32" height="36"></td>
     <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/CPP.png" width="32" height="36"></td>
-    <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/Qt.png" width="31" height="23"></td>
+    <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/Qt.png" width="39" height="29"></td>
   </tr>
 </table>
 <!--
