@@ -1,8 +1,9 @@
-## Hi there 👋 my name is Elijah Olejnik and I'm an engineer. ✨General engineer✨
+## Hi there 👋
+My name is Elijah Olejnik and I'm an engineer. ✨General engineer✨
 
 <img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/3BBS.gif">
 
-## My tools
+## My tools 🛠
 
 <table>
   <tr>
