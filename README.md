@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/1qsy.gif">
+<img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/3BBS.gif">
 
 <!--
 **elijah-olejnik/elijah-olejnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
