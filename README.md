@@ -3,8 +3,8 @@
 <img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/3BBS.gif">
 <table>
   <tr>
-    <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/C.png" width="32" height="36"></td>
-    <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/CPP.png" width="32" height="36"></td>
+    <th><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/C.png" width="32" height="36"></th>
+    <th><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/CPP.png" width="32" height="36"></th>
   </tr>
 </table>
 <!--
