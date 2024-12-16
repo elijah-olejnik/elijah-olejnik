@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/1_cno1u_GOb2lAuTMmG-e14g.gif">
+
 <!--
 **elijah-olejnik/elijah-olejnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
