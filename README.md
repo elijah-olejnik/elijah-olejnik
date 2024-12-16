@@ -6,6 +6,7 @@
     <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/C.png" width="32" height="36"></td>
     <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/CPP.png" width="32" height="36"></td>
     <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/Qt.png" width="39" height="29"></td>
+    <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/Kotlin.png" width="36" height="36"></td>
   </tr>
 </table>
 <!--
