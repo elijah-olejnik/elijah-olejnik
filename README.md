@@ -12,6 +12,7 @@ My name is Elijah Olejnik and I'm an engineer. ✨General engineer✨
     <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/Qt.png" width="39" height="29"></td>
     <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/Kotlin.png" width="34" height="34"></td>
     <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/Py.png" width="34" height="34"></td>
+    <td><img src="https://github.com/elijah-olejnik/elijah-olejnik/blob/main/ASM.png" width="34" height="34"></td>
   </tr>
 </table>
 <!--
